@@ -1,0 +1,4 @@
+name: BungeeAltCon
+main: me.jhonlendo.altcon.bungee.boot.BungeeBoot
+author: Prisma
+version: 0.8alpha

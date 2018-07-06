@@ -1,0 +1,7 @@
+name: BukkitAltCon
+main: me.jhonlendo.altcon.bukkit.boot.BukkitBoot
+author: Prisma
+version: 0.8alpha
+commands:
+  retry:
+    permission: altcon.command.retry
